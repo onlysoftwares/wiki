@@ -1,6 +1,18 @@
-# Introduction
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Welcome to Only Softwares Wiki!
+# ⭐ Welcome to OnlySoftwares Wiki!
 
 In this wiki, you will find all the information you need about OnlySoftwares: product guides, information about the company, projects and more!
 

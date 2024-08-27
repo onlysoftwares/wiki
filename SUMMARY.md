@@ -2,8 +2,8 @@
 
 ## Essentials
 
-* [Introduction](README.md)
-* [Page 2](essentials/page-2.md)
+* [⭐ Welcome to OnlySoftwares Wiki!](README.md)
+* [test page](essentials/test-page.md)
 
 ## Links
 
